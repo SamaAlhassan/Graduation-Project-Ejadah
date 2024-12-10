@@ -1,0 +1,26 @@
+// Provider model to hold provider details
+class Provider {
+  String name;
+  String email;
+  String mobile;
+  String nationality;
+  String major;
+  String location;
+  bool hasCar;
+  String workingHours;
+  double latitude;
+  double longitude;
+
+  Provider({
+    required this.name,
+    required this.email,
+    required this.mobile,
+    required this.nationality,
+    required this.major,
+    required this.location,
+    required this.hasCar,
+    required this.workingHours,
+    required this.latitude,
+    required this.longitude,
+  });
+}

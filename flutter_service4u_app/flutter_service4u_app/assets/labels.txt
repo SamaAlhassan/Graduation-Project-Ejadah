@@ -1,0 +1,7 @@
+Air_Conditioner
+Oven
+Washing_Machine
+dishwasher
+leak
+plug
+refrigerator

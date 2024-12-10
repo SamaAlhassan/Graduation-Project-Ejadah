@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963868495853",
+    "project_id": "home-maintenance-be4ab",
+    "storage_bucket": "home-maintenance-be4ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963868495853:android:c026efd90550fafd42a1e4",
+        "android_client_info": {
+          "package_name": "com.example.service_hub_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCviGHi6AxYF0LmRhZtb_E4TktEZlCfEQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
